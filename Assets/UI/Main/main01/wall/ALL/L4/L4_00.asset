@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65eaea9838e26e249893f3a25941af7f, type: 3}
+  m_Name: L4_00
+  m_EditorClassIdentifier: 
+  Sprite: {fileID: 21300000, guid: 523cdb8a638c6ce409f247bfce067e34, type: 3}
+  Member:
+    Name: 
+    MaxAbility: 500000
+    CurrentAbility: 0
+    AddScore: 0
+    DeadScore: 0
+  Children:
+  - {fileID: 11400000, guid: 3103ff7db6ad7e043b5e3c2f6fa8a6c1, type: 2}
+  - {fileID: 11400000, guid: 909a1f6f0e60f03428af8d1c6490d724, type: 2}
+  - {fileID: 11400000, guid: a34f1a7b78eec924fbeccbdfbfba40c2, type: 2}
+  - {fileID: 11400000, guid: f9f3396982801f4418bc07e5e79e650e, type: 2}

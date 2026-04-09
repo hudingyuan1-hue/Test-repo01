@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65eaea9838e26e249893f3a25941af7f, type: 3}
+  m_Name: L2_00
+  m_EditorClassIdentifier: 
+  Sprite: {fileID: 21300000, guid: 60ed6568561bd9049a190bbac5aa0d51, type: 3}
+  Member:
+    Name: 
+    MaxAbility: 50000
+    CurrentAbility: 0
+    AddScore: 0
+    DeadScore: 100000
+  Children:
+  - {fileID: 11400000, guid: 64d09929ef330444a9fe2e0bbdef140e, type: 2}
+  - {fileID: 11400000, guid: 3a1665ff7de58e4498c8384a1c595f4a, type: 2}
